@@ -1,0 +1,1 @@
+"use strict";Object.defineProperty(exports,"__esModule",{value:!0}),exports.default={headers:{properties:{"x-fastify-token":{type:"string"},authorization:{type:"string"}},required:["x-fastify-token"]}};

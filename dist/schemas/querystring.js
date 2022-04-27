@@ -1,0 +1,1 @@
+"use strict";Object.defineProperty(exports,"__esModule",{value:!0}),exports.default={querystring:{properties:{query:{type:"string",minLength:3},limit:{type:"integer"},offset:{type:"integer"}},required:["query"]}};

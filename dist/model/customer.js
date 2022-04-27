@@ -1,0 +1,1 @@
+"use strict";Object.defineProperty(exports,"__esModule",{value:!0}),exports.CustomerModel=void 0;var CustomerModel=function(){function e(){}return e.prototype.test=function(e){return e("customers")},e}();exports.CustomerModel=CustomerModel;

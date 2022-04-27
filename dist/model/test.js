@@ -1,0 +1,1 @@
+"use strict";Object.defineProperty(exports,"__esModule",{value:!0}),exports.TestModel=void 0;var TestModel=function(){function e(){}return e.prototype.test=function(e){return e("users")},e}();exports.TestModel=TestModel;
